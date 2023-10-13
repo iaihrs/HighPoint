@@ -8,5 +8,6 @@ How to Install:
 3. Open up the installer and select the Karlson Copy's .exe file
 4. Press install
 5. Boot up the game once without any mods
-6. Put Highpoint.dll in the releases in the Mods folder
-7. Enjoy :3
+6. Install [Highpoint.dll](https://github.com/iaihrs/HighPoint/releases/download/1.0/HighPoint.dll)
+7. Put Highpoint.dll in the Mods folder
+8. Enjoy :3
