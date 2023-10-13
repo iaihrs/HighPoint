@@ -1,5 +1,6 @@
 # HighPoint
 Moves the milk to the highest point of the map in Karlson.
+
 How to Install:
 
 1. Have a clean copy of [Karlson](https://danidev.itch.io/karlson)
